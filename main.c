@@ -21,3 +21,15 @@ int main() {
 
     return 0;
 }
+
+void primero() {
+    printf("El primer número ingresado es el mayor.\n");
+}
+
+void segundo() {
+    printf("El segundo número ingresado es el mayor.\n");
+}
+
+void iguales() {
+    printf("Ambos números son iguales.\n");
+}
